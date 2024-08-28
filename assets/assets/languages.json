@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Tiếng Việt",
+    "language_code": "vi",
+    "country_code": "VN",
+    "country": "Vietnam"
+  },
+  {
+    "label": "English",
+    "language_code": "en",
+    "country_code": "US",
+    "country": "United States"
+  },
+  {
+    "label": "中文（简体）",
+    "language_code": "zh",
+    "country_code": "CN",
+    "country": "China"
+  },
+  {
+    "label": "日本語",
+    "language_code": "ja",
+    "country_code": "JP",
+    "country": "Japan"
+  },
+  {
+    "label": "한국어",
+    "language_code": "ko",
+    "country_code": "KR",
+    "country": "South Korea"
+  },
+  {
+    "label": "ខេមរភាសា",
+    "language_code": "km",
+    "country_code": "KH",
+    "country": "Cambodia"
+  },
+  {
+    "label": "ປະເທດລາວ",
+    "language_code": "lo",
+    "country_code": "LA",
+    "country": "Laos"
+  },
+  {
+    "label": "ไทย",
+    "language_code": "th",
+    "country_code": "TH",
+    "country": "Thailand"
+  }
+]
